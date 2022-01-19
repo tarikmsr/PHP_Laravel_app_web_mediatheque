@@ -1,5 +1,4 @@
-# PFE_laravel_app_mediatheque
-# 
+# App_mediatheque_PHP_Laravel
 
 J'ai réalisé ce projet dans le cadre de mon PFE pour ma formation Licence en Génie Informatique.
 
@@ -24,4 +23,21 @@ La page d’authentification
 
 
 La page d'inscription
+
+
 ![image](https://user-images.githubusercontent.com/64175026/150150022-3dccb010-005d-4a87-9b3d-52c0efb3b156.png)
+
+
+
+![image](https://user-images.githubusercontent.com/64175026/150150298-9cc2b4d0-b7b5-4ab8-b58a-0e8636230e96.png)
+
+
+Generé des fichier en PDF
+
+
+![image](https://user-images.githubusercontent.com/64175026/150150777-2660a9d5-b11f-4aad-992d-b7f12530095c.png)
+
+
+Securisé du site web en utilisant package spatie
+![image](https://user-images.githubusercontent.com/64175026/150150452-96e56abf-6fa9-4ee0-a19e-31618b56b0a8.png)
+
