@@ -1,6 +1,6 @@
 # App_Mediatheque_PHP_Laravel
-
-J'ai réalisé ce projet dans le cadre de mon PFE pour ma formation Licence en Génie Informatique.
+# En raison des droits de propriété du site, je ne peut pas partager le code source du site web
+J'ai réalisé ce projet dans le cadre de mon PFE pour ma formation Licence en Génie Informatique  - juillet 2020.
 
 
 Le projet consiste à réaliser une plateforme web pour la mise au point des e-services de la médiathèque Beni Makada.
