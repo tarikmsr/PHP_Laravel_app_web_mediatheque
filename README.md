@@ -1,5 +1,5 @@
 # App_Mediatheque_PHP_Laravel
-# En raison des droits de propriété du site, je ne peut pas partager le code source du site web
+# En raison des droits de propriété, je ne peut pas partager le code source d'application
 J'ai réalisé ce projet dans le cadre de mon PFE pour ma formation Licence en Génie Informatique  - juillet 2020.
 
 
