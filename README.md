@@ -1,5 +1,6 @@
 # Mediatheque_Application_PHP_Laravel_MySQL
-# En raison des droits de propriété, je ne peux pas partager le code source de l'application
+
+
 J'ai réalisé ce projet dans le cadre de mon PFE pour ma formation Licence en Génie Informatique  - juillet 2020.
 
 
